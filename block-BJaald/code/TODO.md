@@ -32,6 +32,9 @@ Methods:
 ```js
 class Queue {
   // your code goes here
+    private static class Node{
+
+}
 }
 
 // Test 1
