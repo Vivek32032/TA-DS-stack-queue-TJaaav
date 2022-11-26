@@ -7,6 +7,9 @@ Read the article https://codeburst.io/learn-and-understand-recursion-in-javascri
 - Write a function named `repeater` that takes an input character and returns that character repeated 5 times using recursion. For example, if the input is 'g', then the output should be 'ggggg'.
 
 ```js
+fuction repeater(){
+
+
 // Test
 console.log(repeater('g')); // 'ggggg'
 console.log(repeater('j')); // 'jjjjj'
