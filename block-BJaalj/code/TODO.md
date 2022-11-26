@@ -5,6 +5,7 @@
 ```js
 function linearSearch() {
   //  Your code goes here
+  list
 }
 
 // TEST
